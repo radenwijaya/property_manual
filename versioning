@@ -1,0 +1,5 @@
+User Manual Versioning
+X.Y.Z
+X: Room Version, e.g. until there is a major overhaul, e.g. every 5 years or so should always be 1.
+Y: Furniture Version, update this for every installed or removed piece of furniture
+Z: Unit Manual Version, the version of unit manual released accroding to room & furniture version
